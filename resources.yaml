@@ -1,0 +1,44 @@
+dir: .
+url: git@github.com:AndreaCensi/env_bv.git
+---
+dir: src/latex_gen
+url: git@github.com:AndreaCensi/latex_gen.git
+---
+dir: src/contracts
+url: git@github.com:AndreaCensi/contracts.git
+---
+dir: src/compmake
+url: git@github.com:AndreaCensi/compmake.git
+---
+dir: src/geometry
+url: git@github.com:AndreaCensi/geometry.git
+---
+dir: src/procgraph
+url: git@github.com:AndreaCensi/procgraph.git
+---
+dir: src/reprep
+url: git@github.com:AndreaCensi/reprep.git
+---
+dir: src/conf_tools
+url: git@github.com:AndreaCensi/conf_tools.git
+---
+dir: src/boot_olympics
+url: git@github.com:AndreaCensi/boot_olympics.git
+---
+dir: src/bvapps
+url: git@github.com:AndreaCensi/bvapps.git
+---
+dir: src/vehicles
+url: git@github.com:AndreaCensi/vehicles.git
+---
+dir: src/boot_agents
+url: git@github.com:AndreaCensi/boot_agents.git
+---
+dir: src/utils
+url: git@github.com:AndreaCensi/utils.git
+---
+dir: src/quickapp
+url: git@github.com:AndreaCensi/quickapp.git
+---
+dir: src/astatsa
+url: git@github.com:AndreaCensi/astatsa.git
