@@ -1,5 +1,6 @@
 #!/bin/bash
 # load this using   source environment.sh
+source ~/bin/activate-epd-7.3
 export BV_ROOT=/data/work/scm/env_bv
 export BV_PREFIX=${BV_ROOT}/deploy
 export BV_SRC=${BV_ROOT}/src

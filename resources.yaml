@@ -41,4 +41,4 @@ dir: src/quickapp
 url: git@github.com:AndreaCensi/quickapp.git
 ---
 dir: src/astatsa
-url: git@github.com:AndreaCensi/astatsa.git
+url: git@github.com:AndreaCensi/astatsa.git 
