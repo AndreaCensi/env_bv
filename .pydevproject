@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">env_bv</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/env_bv/src/boot_agents/src</path>
+<path>/env_bv/src/boot_olympics/src</path>
+<path>/env_bv/src/compmake/src</path>
+<path>/env_bv/src/conf_tools/src</path>
+<path>/env_bv/src/contracts/src</path>
+<path>/env_bv/src/geometry/src</path>
+<path>/env_bv/src/latex_gen/src</path>
+<path>/env_bv/src/procgraph/src</path>
+<path>/env_bv/src/quickapp/src</path>
+<path>/env_bv/src/reprep/src</path>
+<path>/env_bv/src/vehicles/src</path>
+<path>/env_bv/src/astatsa/src</path>
+</pydev_pathproperty>
+</pydev_project>

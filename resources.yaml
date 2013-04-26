@@ -34,9 +34,6 @@ url: git@github.com:AndreaCensi/vehicles.git
 dir: src/boot_agents
 url: git@github.com:AndreaCensi/boot_agents.git
 ---
-dir: src/utils
-url: git@github.com:AndreaCensi/utils.git
----
 dir: src/quickapp
 url: git@github.com:AndreaCensi/quickapp.git
 ---
