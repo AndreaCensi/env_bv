@@ -65,5 +65,9 @@ branch: env_bv
 dir: docs/12-censi-thesis-bv
 url: ssh://git@ac.repositoryhosting.com/ac/12-censi-thesis-bv.git
 branch: env_bv 
+---
+dir: docs/writingtools
+url: git@github.com:AndreaCensi/writingtools.git
+branch: env_bv
 
 

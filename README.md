@@ -20,8 +20,12 @@ The last compilation is wrong, because it links python in /opt/local/lib:
 
 We need to add -L/Library/Frameworks/EPD64.framework/Versions/7.3//lib  before '-lpython2.7' 
 
-    /usr/bin/gcc src/cairomodule.c.1.o src/context.c.1.o src/font.c.1.o src/path.c.1.o src/pattern.c.1.o src/matrix.c.1.o src/surface.c.1.o -o /data/work/scm/env_bv/src-third/py2cairo-1.10.0/build_directory/src/_cairo.so -L/Library/Frameworks/EPD64.framework/Versions/7.3//lib -L/opt/local/lib -lcairo  -lpython2.7 -dynamiclib -arch x86_64 -arch x86_64 -arch x86_64 -arch x86_64
+    cd build_directory/
 
+    /usr/bin/gcc src/cairomodule.c.1.o src/context.c.1.o src/font.c.1.o src/path.c.1.o src/pattern.c.1.o src/matrix.c.1.o src/surface.c.1.o -o /data/work/scm/environments/env_bv/src-third/py2cairo-1.10.0/build_directory/src/_cairo.so -L/Library/Frameworks/EPD64.framework/Versions/7.3//lib -L/opt/local/lib -lcairo  -lpython2.7 -dynamiclib -arch x86_64 -arch x86_64 -arch x86_64 -arch x86_64
+
+    cd ..
+    
 Now install:
     
     ./waf install
