@@ -69,5 +69,8 @@ branch: env_bv
 dir: docs/writingtools
 url: git@github.com:AndreaCensi/writingtools.git
 branch: env_bv
-
+---
+dir: src/patience
+url: git@github.com:AndreaCensi/patience.git
+branch: master 
 
