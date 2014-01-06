@@ -2,12 +2,12 @@
 dir: .
 url: git@github.com:AndreaCensi/env_bv.git
 ---
-dir: src/latex_gen
-url: git@github.com:AndreaCensi/latex_gen.git
-branch: env_bv 
----
 dir: src/contracts
 url: git@github.com:AndreaCensi/contracts.git
+branch: env_bv 
+---
+dir: src/latex_gen
+url: git@github.com:AndreaCensi/latex_gen.git
 branch: env_bv 
 ---
 dir: src/compmake
@@ -69,5 +69,8 @@ branch: env_bv
 dir: docs/writingtools
 url: git@github.com:AndreaCensi/writingtools.git
 branch: env_bv
-
+---
+dir: src/patience
+url: git@github.com:AndreaCensi/patience.git
+branch: master 
 

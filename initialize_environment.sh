@@ -40,5 +40,5 @@ echo "From now on, use \"source $config\" to setup everything."
 #pip install --upgrade nose-progressive
 #echo "Install patience"
 #pip install -e "git+git@github.com:AndreaCensi/patience.git#egg=Patience"
-
+pip install --upgrade patience
 
